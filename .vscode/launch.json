@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "bubbles_sort",
+      "request": "launch",
+      "mainClass": "bubbles_sort",
+      "projectName": "DSA_codes_f92628ad"
+    },
+    {
+      "type": "java",
+      "name": "selection_sort",
+      "request": "launch",
+      "mainClass": "selection_sort",
+      "projectName": "DSA_codes_f92628ad"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "MergeSort",
+      "projectName": "DSA_codes_f92628ad"
+    },
+    {
+      "type": "java",
       "name": "Binary_Search",
       "request": "launch",
       "mainClass": "Binary_Search",

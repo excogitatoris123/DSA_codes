@@ -49,3 +49,6 @@ if (flag==0)
 //a) If greater then assign start=mid+1 b)if less the assign end equal to mid-1 c)if found return present with index no.
 // again iterate the loop , goingback to mid point condition
 //till end point is less than staring point then return value is absent
+
+
+// Now perform above thing using recursion
