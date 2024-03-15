@@ -64,7 +64,7 @@ void addFirst() //Make before break // First do for general case then optimize f
 void addLast()
 {
     //Here we need to first travel upto the last element 
-    Node nn=new Node(8)
+    Node nn=new Node(8);
     Node trav;
     trav=head;
  while(trav.next!=null)

@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "min_max_substrings",
+      "request": "launch",
+      "mainClass": "min_max_substrings",
+      "projectName": "DSA_codes_f92628ad"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "DSA_codes_f92628ad"
+    },
+    {
+      "type": "java",
+      "name": "Rough",
+      "request": "launch",
+      "mainClass": "Rough",
+      "projectName": "DSA_codes_f92628ad"
+    },
+    {
+      "type": "java",
+      "name": "Collections",
+      "request": "launch",
+      "mainClass": "Collections",
+      "projectName": "DSA_codes_f92628ad"
+    },
+    {
+      "type": "java",
+      "name": "insertion_sort",
+      "request": "launch",
+      "mainClass": "insertion_sort",
+      "projectName": "DSA_codes_f92628ad"
+    },
+    {
+      "type": "java",
       "name": "bubbles_sort",
       "request": "launch",
       "mainClass": "bubbles_sort",
